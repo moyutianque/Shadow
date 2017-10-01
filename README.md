@@ -1,6 +1,8 @@
 backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)  
 copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/tag/2.8.2)
 
+vpn installation: https://moshuqi.github.io/2017/07/20/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAVPN%E6%9C%8D%E5%8A%A1%E5%99%A8/(https://moshuqi.github.io/2017/07/20/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAVPN%E6%9C%8D%E5%8A%A1%E5%99%A8/)
+
 shadowsocks
 ===========
 
